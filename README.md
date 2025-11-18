@@ -54,6 +54,10 @@
 │   │   └── item_subscriber.cpp
 │   │   └── 订阅发布.png
 │   │   └── server.cpp
+│   │   └── sum_client.cpp
+│   │   └── sum_server.cpp
+│   │   └── 服务.png
+│   │   └── 动作.png
 └── README.md
 ```
 
